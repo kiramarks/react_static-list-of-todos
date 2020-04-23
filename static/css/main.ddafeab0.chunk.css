@@ -1,0 +1,2 @@
+.header{text-align:center}.todo-list{display:grid;grid-template-columns:repeat(3,250px);grid-gap:20px;justify-content:center}.todo{height:150px;padding:0 20px;border:1px solid #ee0;border-radius:5px;background-color:rgba(238,238,0,.2)}.todo-done{border:1px solid #00b16a;background-color:rgba(0,177,106,.2)}
+/*# sourceMappingURL=main.ddafeab0.chunk.css.map */
